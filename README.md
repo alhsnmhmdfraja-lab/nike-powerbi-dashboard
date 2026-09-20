@@ -1,5 +1,9 @@
 Nike Sales Analytics Dashboard – Power BI
 
+🖥️ Dashboard Preview
+
+"Nike Sales Analytics Dashboard" (https://github.com/alhsnmhmdfraja-lab/nike-powerbi-dashboard/blob/main/dashboard.png?raw=true)
+
 📊 Overview
 
 From Raw Data to Business Insights
@@ -11,10 +15,6 @@ The real challenge was organizing the data, building a suitable data model, and 
 In this project, I developed a Nike Sales Analytics Dashboard using Microsoft Power BI, starting with data preparation and transformation using Power Query, followed by building a structured Star Schema data model connecting Fact and Dimension tables.
 
 I then used DAX to create measures and calculate key business KPIs.
-
-🖥️ Dashboard Preview
-
-"Nike Sales Analytics Dashboard" (https://github.com/alhsnmhmdfraja-lab/nike-powerbi-dashboard/blob/main/dashboard.png?raw=true)
 
 📈 Key KPIs
 
