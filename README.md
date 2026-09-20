@@ -12,6 +12,10 @@ In this project, I developed a Nike Sales Analytics Dashboard using Microsoft Po
 
 I then used DAX to create measures and calculate key business KPIs.
 
+🖥️ Dashboard Preview
+
+"Nike Sales Analytics Dashboard" (https://github.com/alhsnmhmdfraja-lab/nike-powerbi-dashboard/blob/main/dashboard.png?raw=true)
+
 📈 Key KPIs
 
 - Total Sales
@@ -63,10 +67,10 @@ Analyzes shipping methods, Orders, Quantity, Profit Margin, and Loss Orders.
 
 The goal was not simply to build a visually appealing dashboard, but to create a structured business analysis that helps identify patterns, understand performance, and transform raw data into clear and actionable insights.
 
-🖥️ Dashboard Preview
-
-"Nike Sales Analytics Dashboard" (dashboard.png)
-
 🎥 Dashboard Demo
 
-A video demonstration of the interactive dashboard is available in this repository.
+"▶️ Watch Dashboard Demo" (https://github.com/alhsnmhmdfraja-lab/nike-powerbi-dashboard/blob/main/Nike_Dashboard_Demo.mp4)
+
+📊 Project File
+
+"⬇️ Download Nike Power BI Project" (https://github.com/alhsnmhmdfraja-lab/nike-powerbi-dashboard/blob/main/NiKE%20Finel1.pbix)
