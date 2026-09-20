@@ -1,8 +1,4 @@
-Nike Sales Analytics Dashboard – Power BI
-
-🖥️ Dashboard Preview
-
-"Nike Sales Analytics Dashboard" (https://github.com/alhsnmhmdfraja-lab/nike-powerbi-dashboard/blob/main/dashboard.png?raw=true)
+ Nike Sales Analytics Dashboard – Power BI
 
 📊 Overview
 
@@ -29,7 +25,9 @@ I then used DAX to create measures and calculate key business KPIs.
 
 📑 Multi-Page Business Analysis
 
-The dashboard is divided into multiple pages, with each page focusing on a different aspect of the business.
+The dashboard starts with a dedicated Welcome Page that introduces the project and provides interactive navigation through the dashboard.
+
+After the Welcome Page, the dashboard is divided into multiple analysis pages, with each page focusing on a different aspect of the business.
 
 1. Overall Performance Analysis
 
@@ -67,10 +65,3 @@ Analyzes shipping methods, Orders, Quantity, Profit Margin, and Loss Orders.
 
 The goal was not simply to build a visually appealing dashboard, but to create a structured business analysis that helps identify patterns, understand performance, and transform raw data into clear and actionable insights.
 
-🎥 Dashboard Demo
-
-"▶️ Watch Dashboard Demo" (https://github.com/alhsnmhmdfraja-lab/nike-powerbi-dashboard/blob/main/Nike_Dashboard_Demo.mp4)
-
-📊 Project File
-
-"⬇️ Download Nike Power BI Project" (https://github.com/alhsnmhmdfraja-lab/nike-powerbi-dashboard/blob/main/NiKE%20Finel1.pbix)
