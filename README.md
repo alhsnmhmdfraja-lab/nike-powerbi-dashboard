@@ -1,6 +1,6 @@
-# Nike Sales Analytics Dashboard – Power BI
+Nike Sales Analytics Dashboard – Power BI
 
-## 📊 Overview
+📊 Overview
 
 From Raw Data to Business Insights
 
@@ -12,7 +12,7 @@ In this project, I developed a Nike Sales Analytics Dashboard using Microsoft Po
 
 I then used DAX to create measures and calculate key business KPIs.
 
-## 📈 Key KPIs
+📈 Key KPIs
 
 - Total Sales
 - Total Profit
@@ -23,31 +23,31 @@ I then used DAX to create measures and calculate key business KPIs.
 - Discount
 - Returned Orders
 
-## 📑 Multi-Page Business Analysis
+📑 Multi-Page Business Analysis
 
 The dashboard is divided into multiple pages, with each page focusing on a different aspect of the business.
 
-### 1. Overall Performance Analysis
+1. Overall Performance Analysis
 
 Provides a comprehensive overview of sales, profit, orders, and overall business performance.
 
-### 2. Product & Category Analysis
+2. Product & Category Analysis
 
 Analyzes Products, Categories, and Sub-Categories while monitoring Sales, Profit, and Discounts.
 
-### 3. Customer Analysis
+3. Customer Analysis
 
 Analyzes customers and segments, including Sales, Customer Value, and Orders.
 
-### 4. Geographic Performance Analysis
+4. Geographic Performance Analysis
 
 Compares business performance across Regions, States, and Cities, with analysis of Sales, Profit, and Orders.
 
-### 5. Shipping Performance Analysis
+5. Shipping Performance Analysis
 
 Analyzes shipping methods, Orders, Quantity, Profit Margin, and Loss Orders.
 
-## 🛠️ Tools & Techniques
+🛠️ Tools & Techniques
 
 - Power BI
 - Power Query
@@ -59,14 +59,14 @@ Analyzes shipping methods, Orders, Quantity, Profit Margin, and Loss Orders.
 - Filters
 - Interactive Navigation
 
-## 🎯 Project Objective
+🎯 Project Objective
 
 The goal was not simply to build a visually appealing dashboard, but to create a structured business analysis that helps identify patterns, understand performance, and transform raw data into clear and actionable insights.
 
-## 🖥️ Dashboard Preview
+🖥️ Dashboard Preview
 
-![Nike Sales Analytics Dashboard](dashboard.png)
+"Nike Sales Analytics Dashboard" (dashboard.png)
 
-## 🎥 Dashboard Demo
+🎥 Dashboard Demo
 
-A video demonstration of the interactive dashboard is included in this repository.
+A video demonstration of the interactive dashboard is available in this repository.
